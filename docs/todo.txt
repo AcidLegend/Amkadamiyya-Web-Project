@@ -1,0 +1,3 @@
+- In academics section To list all courses offered in Primary, Secondary, Nursery.
+- Send a letter to staff or admin.
+- Revamp Apply for admission page.

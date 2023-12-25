@@ -1,0 +1,35 @@
+ 
+  /* TUITION AND FEES TABLE */
+.tabcontent {
+  margin: 20px 0;
+}
+.tabcontent table {
+  width: 90%;
+  margin: auto;
+}
+@media only screen and (max-width: 768px) {
+  .tabcontent table {
+    overflow-x: auto;
+  }
+    
+}
+.tabcontent table tbody th {
+  padding: 15px;
+  color: #283c52;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+.tabcontent table tbody tr td {
+  padding: 15px;
+  white-space: nowrap;
+  color: #251e13;
+}
+.tabcontent table tbody tr td:first-child {
+  color: #201a1a;
+  font-weight: 600;
+}
+.tabcontent table tbody tr:nth-child(even) {
+  background-color: #c3cee4;
+}
+/* CALENDAR */
+
